@@ -1,0 +1,63 @@
+{
+	"info": {
+		"_postman_id": "a138ba6f-68ba-4fca-9f9e-197f7bddc282",
+		"name": "angular-vs-react-api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "locais",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3002/api/locais?apiKey=41bd5d8a8433449c72ac1b3abf02f0ca",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3002",
+					"path": [
+						"api",
+						"locais"
+					],
+					"query": [
+						{
+							"key": "apiKey",
+							"value": "41bd5d8a8433449c72ac1b3abf02f0ca"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "info-local",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3002/api/info-local/44.86463,15.593719?apiKey=41bd5d8a8433449c72ac1b3abf02f0ca",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3002",
+					"path": [
+						"api",
+						"info-local",
+						"44.86463,15.593719"
+					],
+					"query": [
+						{
+							"key": "apiKey",
+							"value": "41bd5d8a8433449c72ac1b3abf02f0ca"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
