@@ -1,0 +1,257 @@
+[
+   {
+      "latlng":"44.86463,15.593719",
+      "nome":"Parque Nacional dos Lagos de Plitvice - Croácia",
+      "imagens":[
+         {
+            "src":"http://localhost:3002/imagens/plitvice/plitvice1.jpg",
+            "w":1024,
+            "h":576
+         },
+         {
+            "src":"http://localhost:3002/imagens/plitvice/plitvice2.jpg",
+            "w":1024,
+            "h":576
+         },
+         {
+            "src":"http://localhost:3002/imagens/plitvice/plitvice3.jpg",
+            "w":1024,
+            "h":576
+         },
+         {
+            "src":"http://localhost:3002/imagens/plitvice/plitvice4.jpg",
+            "w":1024,
+            "h":576
+         },
+         {
+            "src":"http://localhost:3002/imagens/plitvice/plitvice5.jpg",
+            "w":1024,
+            "h":576
+         },
+         {
+            "src":"http://localhost:3002/imagens/plitvice/plitvice6.jpg",
+            "w":1024,
+            "h":576
+         },
+         {
+            "src":"http://localhost:3002/imagens/plitvice/plitvice7.jpg",
+            "w":1024,
+            "h":576
+         }
+      ],
+      "descricao":[
+         "O Parque Nacional Plitvice está situado na Croácia. Trata-se de um parque nacional que se estende por 20000 hectares de bosques e de lagos, no coração dos Balcãs. Cascatas, lagos, abundante vegetação, abundância de aves e de ursos entre a sua fauna.",
+         "Os lagos dividem-se em dois grandes grupos, os lagos superiores e os lagos inferiores. Desde 1949 que este conjunto natural tem a designação de Parque Nacional e, desde 1979, de Património da Humanidade, pela UNESCO.",
+         "Há zonas que podem ser visitadas no Verão, outras no Inverno, e, no geral, não há lugares inacessíveis. Tem como problemas a abundante e frondosa vegetação na Primavera, e a neve a algumas cotas no Inverno.",
+         "O Parque Nacional dos Lagos de Plitvice (Plitivicka Jazera, em croata), com 300km2 de área, foi fundado em 1949 e, trinta anos depois, em 1979, entrou para a lista da Unesco de Patrimônios Naturais da Humanidade. São 16 lagos nos mais diferentes tons de azul e verde, conectados por cachoeiras de todos os tamanhos, divididos em dois grupos: lagos superiores (12 lagos) e lagos inferiores (4 lagos).",
+         "Os passeios são feitos pelas passarelas que cruzam os lagos, nos caminhos de terra que ficas nas margens e uma parte em barco."
+      ]
+   },
+   {
+      "latlng":"52.946569,-9.468327",
+      "nome":"Cliffs of Moher - Irlanda",
+      "imagens":[
+        {
+           "src":"http://localhost:3002/imagens/cliffs_of_moher/cliffs_of_moher1.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/cliffs_of_moher/cliffs_of_moher2.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/cliffs_of_moher/cliffs_of_moher3.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/cliffs_of_moher/cliffs_of_moher4.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/cliffs_of_moher/cliffs_of_moher5.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/cliffs_of_moher/cliffs_of_moher6.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/cliffs_of_moher/cliffs_of_moher7.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/cliffs_of_moher/cliffs_of_moher8.jpg",
+           "w":1024,
+           "h":576
+        }
+      ],
+      "descricao":[
+         "As Falésias de Moher (em irlandês: Aillte an Mhothair, lit. falésias da ruína, também escrito como Falésias de Mohair) localizam-se na paróquia de Liscannor, no ponto sudoeste da área de Burren, perto de Doolin, localizado no Condado de Clare, Irlanda. O nome deriva de um antigo forte chamado 'Mothar', destruído durante as guerras contra Napoleão para a construção de um farol.",
+         "As falésias estendem-se 8 km ao longo do Oceano Atlântico e atingem a sua altura máxima de 214 metros ao norte da Torre de O'Brien. A vista das falésias atrai perto de um milhão de visitantes por ano. Num dia limpo, são visíveis as ilhas de Aran na Baía de Galway, tal como os vales e colinas de Connemara.",
+         "A Torre de O'Brien é uma torre de pedra redonda que fica aproximadamente no ponto médio das falésias. Foi construída cerca de 1835 por sir Cornelius O'Brien, descendente do rei irlandês Brian Boru, para servir como ponto de observação para turistas vitorianos ou, segundo a lenda, para impressionar visitantes do sexo feminino. Do topo da vigia, é possível ver as ilhas de Aran e a Baía de Galway, as montanhas Maum Turk, os Doze Pins a norte em Connemara, e Loop Head a sul.",
+         "As Falésias são um ponto importante de nidificação de aves marinhas na Irlanda e estão incluídas numa Área Especial de Proteção (Special Protection Area) ambiental."
+      ]
+   },
+   {
+      "latlng":"56.949468,24.101257",
+      "nome":"Riga - Letônia",
+      "imagens":[
+        {
+           "src":"http://localhost:3002/imagens/riga/riga1.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/riga/riga2.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/riga/riga3.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/riga/riga4.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/riga/riga5.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/riga/riga6.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/riga/riga7.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/riga/riga8.jpg",
+           "w":1024,
+           "h":576
+        }
+      ],
+      "descricao":[
+         "Riga (em letão: Rīga, pronunciado: [ˈriːɡa]) é a capital e a maior cidade da Letônia.",
+         "Está localizada no nordeste da Europa, sendo banhada pelo mar Báltico e situado-se no coração do golfo de Riga, na foz do rio Duína Ocidental.",
+         "É a mais importante cidade da Letônia, principal centro político, cultural, populacional e econômico do país.",
+         "Segundo dados de 2013, possuí uma população de 643 615 habitantes, ou aproximadamente 1/3 da população letã no mesmo período. É a mais populosa das capitais bálticas, e a segunda maior área metropolitana da região, depois da região metropolitana de Vilnius.",
+         "Para fins administrativos, Riga é uma cidade independente e está localizada no distrito de Riga.",
+         "O centro histórico de Riga foi declarado Patrimônio da Humanidade pela UNESCO, e a cidade é particularmente notável por sua arquitetura Art Nouveau (Jugendstil), comparável em importância a Viena, São Petersburgo e Barcelona."
+      ]
+   },
+   {
+      "latlng":"55.230981,-6.520386",
+      "nome":"Giants Causeway - Irlanda do Norte",
+      "imagens":[
+        {
+           "src":"http://localhost:3002/imagens/giants_causeway/giants_causeway1.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/giants_causeway/giants_causeway2.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/giants_causeway/giants_causeway3.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/giants_causeway/giants_causeway4.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/giants_causeway/giants_causeway5.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/giants_causeway/giants_causeway6.jpg",
+           "w":1024,
+           "h":576
+        },
+        {
+           "src":"http://localhost:3002/imagens/giants_causeway/giants_causeway7.jpg",
+           "w":1024,
+           "h":576
+        }
+      ],
+      "descricao":[
+         "A Calçada do Gigante (em inglês Giant's Causeway) é a designação dada a um conjunto de cerca de 40 000 colunas prismáticas de basalto, encaixadas como se formassem uma enorme calçada de pedras gigantescas, formadas pela disjunção prismática de uma grande massa de lava basáltica resultante de uma erupção vulcânica ocorrida há cerca de 60 milhões de anos. A formação está localizada na costa da Irlanda do Norte, a cerca de 3 quilômetros a norte da vila de Bushmills, no condado de Antrim, Irlanda do Norte. ",
+         "Foi declarada como Patrimônio da Humanidade pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura - UNESCO em 1986 sob o nome de 'Calçada do Gigante e sua Costa', e como Reserva Natural em 1987.",
+         "A Calçada do Gigante, também é conhecida, de uma forma peculiar graças à capa do álbum Houses of the Holy, da banda britânica de rock Led Zeppelin.",
+         "Fica numa área de basalto compacto. A atividade vulcânica nessa área fez a rocha derretida subir através de fendas no calcário, com temperatura média de mais de 1000 °C. Quando entrou em contato com o ar,ela se resfriou e se solidificou. A rocha derretida, ou magma, é composta por muitos elementos químicos e por isso pode criar vários tipos de rocha. O tipo de rocha formado na área do contexto em questão é o basalto.",
+         "O magma se encolhia à medida que se resfriava lentamente e, por causa de sua composição química, fendas hexagonais regulares se formaram na superfície. Enquanto o magma continuava a se resfriar por dentro, as fendas desciam gradualmente, formando a grande quantidade de colunas de basalto semelhantes a lápis."
+      ]
+   },
+   {
+      "latlng":"50.058902,19.938812",
+      "nome":"Cracóvia - Polônia",
+      "imagens":[
+        {
+           "src":"http://localhost:3002/imagens/cracovia/cracovia1.jpg",
+           "w":1024,
+           "h":768
+        },
+        {
+           "src":"http://localhost:3002/imagens/cracovia/cracovia2.jpg",
+           "w":1024,
+           "h":768
+        },
+        {
+           "src":"http://localhost:3002/imagens/cracovia/cracovia3.jpg",
+           "w":1024,
+           "h":768
+        },
+        {
+           "src":"http://localhost:3002/imagens/cracovia/cracovia4.jpg",
+           "w":1024,
+           "h":768
+        },
+        {
+           "src":"http://localhost:3002/imagens/cracovia/cracovia5.jpg",
+           "w":1024,
+           "h":768
+        },
+        {
+           "src":"http://localhost:3002/imagens/cracovia/cracovia6.jpg",
+           "w":1024,
+           "h":768
+        },
+        {
+           "src":"http://localhost:3002/imagens/cracovia/cracovia7.jpg",
+           "w":1024,
+           "h":768
+        },
+        {
+           "src":"http://localhost:3002/imagens/cracovia/cracovia8.jpg",
+           "w":1024,
+           "h":768
+        }
+      ],
+      "descricao":[
+         "Cracóvia (em polaco: Kraków; em latim: Cracovia; em alemão: Krakau) é uma cidade da Polônia. Localiza-se no sul do país, nas margens do rio Vístula. Tem cerca de 853 mil habitantes. Uma das cidades mais antigas da Polônia e a segunda maior cidade do país. A capital da Polônia em 1039-1079, 1138-1290 e 1296-1596 (oficialmente até 1795), a principal cidade da coroação dos reis da Polônia e até 1609-1611 a cidade residencial dos reis da Polônia.",
+         "O Centro Histórico de Cracóvia foi inscrito pela UNESCO em 1978 na lista do Património Mundial. Citada como uma das cidades mais bonitas da Europa, bem como um dos destinos mais particulares no mundo, a cidade tem uma herança cultural extensa que atravessa as épocas do gótico, renascimento e barroco incluindo a Catedral Wawel e o Castelo Real nas margens do rio Vistula, a basilica de St. Maria, a Igreja dos Santos Pedro e Paulo e a maior praça medieval da Europa, a Rynek Główny.",
+         "A cidade é sede de uma das mais antigas e prestigiosas universidades da Europa, a Universidade Jaguelônica.",
+         "Foi Capital Europeia da Cultura em 2000 e foi uma das subsedes do Campeonato Mundial de Voleibol de 2014. A cidade foi sede da Jornada Mundial da Juventude de 2016.",
+         "A cidade sediou a Jornada Mundial da Juventude de 2016, o Ano Santo da Misericórdia, em honra a São João Paulo II, que instituiu a Festa da Divina Misericórdia, e a Santa Faustina Kowalska, impulsionadora desta devoção."
+      ]
+   }
+]

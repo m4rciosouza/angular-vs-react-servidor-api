@@ -1,0 +1,37 @@
+[
+   {
+      "latlng":[
+         44.86463,
+         15.593719
+      ],
+      "nome":"Parque Nacional dos Lagos de Plitvice - Croácia"
+   },
+   {
+      "latlng":[
+         52.946569,
+         -9.468327
+      ],
+      "nome":"Cliffs of Moher - Irlanda"
+   },
+   {
+      "latlng":[
+         56.949468,
+         24.101257
+      ],
+      "nome":"Riga - Latvia"
+   },
+   {
+      "latlng":[
+         55.230981,
+         -6.520386
+      ],
+      "nome":"Giants Causeway - United Kingdom"
+   },
+   {
+      "latlng":[
+         50.058902,
+         19.938812
+      ],
+      "nome":"Krakow - Poland"
+   }
+]
