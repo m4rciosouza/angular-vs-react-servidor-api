@@ -13,7 +13,9 @@ Você pode baixar o NodeJS em [https://nodejs.org](https://nodejs.org), e o Git 
 ```git clone https://github.com/m4rciosouza/angular-vs-react-servidor-api.git```
 2. Acesse o diretório clonado com:
 ```cd angular-vs-react-servidor-api```
-3. Digite o seguinte comando para inicializar o servidor na porta 3002:
+3. Instale as dependências do projeto executando:
+```npm install```
+4. Digite o seguinte comando para inicializar o servidor na porta 3002:
 ```node index.js```
 
 A API estará disponível na url [http://localhost:3002](http://localhost:3002).
